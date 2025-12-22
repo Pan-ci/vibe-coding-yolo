@@ -1,0 +1,1 @@
+Tolong install requirements.txt terlebih dahulu sebelum menjalankan file python "yolo.py" untuk menggunakan model yolo yang sudah dilatih, terima kasih.
