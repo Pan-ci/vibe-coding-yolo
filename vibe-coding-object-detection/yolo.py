@@ -13,7 +13,7 @@ while True:
     annotated = results[0].plot()
     cv2.imshow("Real-time Object Detection", annotated)
 
-    if cv2.waitKey(500) & 0xFF == 27:
+    if cv2.waitKey(1) & 0xFF == 27:
         break
 
 cap.release()
